@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kam11Kaz3
 - 👀 I’m interested in PYTHON and HACKING and BOTS and AI
-- 🌱 I’m currently learning not a lot 
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on Bots on Python
 - 📫 How to reach me mesage me
 
